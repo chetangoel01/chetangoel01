@@ -26,9 +26,8 @@
 
 ## 🌟 **Projects**
 
-- [UKG Employee Goal Manager](https://github.com/chetangoel01/ukg-goal-manager): A full-stack web app built with **React** and **Flask**, featuring responsive data visualization, RESTful APIs, and MongoDB integration.
-- [Emotion Detection Bot](https://github.com/chetangoel01/emotion-detection-bot): A Python-based tool using **GANs** and **TensorFlow** for facial emotion recognition and music recommendations.
-- [GTA – 187](https://github.com/chetangoel01/gta-187): An educational racing game developed in **Unity**, featuring AI opponents, physics-based controls, and integrated math challenges.
+- [Emotion Detection Bot](https://github.com/chetangoel01/emotion-detection): A Python-based tool using **GANs** and **TensorFlow** for facial emotion recognition and music recommendations.
+- [GTA – 187](https://github.com/chetangoel01/GTA-187): An educational racing game developed in **Unity**, featuring AI opponents, physics-based controls, and integrated math challenges.
 - [Weather](https://github.com/chetangoel01/Weather): A weather dashboard built with PlatformIO for a LilyGo E-paper display, featuring real-time updates.
 - [WelcomeHome](https://github.com/chetangoel01/WelcomeHome): A database project for CS-GY 6083, involving schema design, authentication, and performance optimization, built entirely from scratch.
 - **Employee Goal Manager**: Project contracted by UKG for tracking employee goals and milestones.  
