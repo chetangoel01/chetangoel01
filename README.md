@@ -47,6 +47,6 @@
 ## 📫 **Connect with Me**
 
 - **Email**: [cg4652@nyu.edu](mailto:cg4652@nyu.edu)  
-- **LinkedIn**: [Chetan Goel](https://linkedin.com/in/chetan-goel)
+- **LinkedIn**: [Chetan Goel](https://linkedin.com/in/goelchetan)
   
 ---
