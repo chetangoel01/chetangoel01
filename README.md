@@ -14,16 +14,6 @@
 
 ---
 
-## 💼 **Professional Experience**
-- **Technical Undergraduate Intern**, [Cisco Systems Inc.](https://www.cisco.com)  
-    Designed and implemented frameworks to identify and eliminate flaky tests, significantly reducing debugging time and enhancing test automation pipelines. Collaborated with the UI team to resolve issues and refresh the frontend in the Webex 365 Office Add-in, ensuring seamless integration and improved user experience.
-- **Software Engineering Intern**, [WarnerBros Discovery](https://www.warnerbros.com)  
-    Maintained and improved account provisioning tools and microservices with NodeJS and REST APIs.
-- **Software Engineering Intern**, [Buhler Aeroglide](https://www.buhlergroup.com)  
-    Developed a React + Java web application for data indexing and management, optimizing recall performance.  
-
----
-
 ## 🌟 **Projects**
 
 - [Emotion Detection Bot](https://github.com/chetangoel01/emotion-detection): A Python-based tool using **GANs** and **TensorFlow** for facial emotion recognition and music recommendations.
