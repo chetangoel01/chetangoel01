@@ -29,7 +29,9 @@
 
 ## 📊 **GitHub Stats**
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=chetangoel01&show_icons=true&theme=default)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chetangoel01&layout=compact&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chetangoel01&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chetangoel01&layout=compact&theme=default&hide_border=true)
 
 ---
 
