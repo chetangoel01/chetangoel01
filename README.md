@@ -1,29 +1,28 @@
 # Hi there! 👋 I'm Chetan Goel
 
-🎓 **Master’s Student in Computer Science** at New York University  
-
-
+🎓 **Master's Student in Computer Science** at New York University
 
 ---
 
-## 🛠️ **Skills & Technologies**
+## 🌟 **Featured Projects**
 
-- **Languages**: JavaScript/TypeScript, Java, Python, C/C++, C#, R, HTML/CSS  
-- **Frameworks**: React.js, NodeJS, Flask, Unity, React Native  
-- **Databases**: MongoDB, Postgres, MySQL
+### AI & Machine Learning
 
----
+- [**Breakpoint**](https://github.com/chetangoel01/Breakpoint): AI-powered fatigue tracking desktop application that detects tiredness in real-time through your webcam and optimizes productivity breaks.
+  **Tech Stack**: Electron, Next.js, Python, MediaPipe, Random Forest ML model, TailwindCSS
 
-## 🌟 **Projects**
+- [**PantryAI**](https://github.com/chetangoel01/PantryAI): Cross-platform mobile app for smart pantry management with receipt scanning, AI-powered recipe recommendations, and expiration tracking.
+  **Tech Stack**: React Native/Expo, Flask, Google AI, Supabase, Computer Vision
 
-- [Emotion Detection Bot](https://github.com/chetangoel01/emotion-detection): A Python-based tool using **GANs** and **TensorFlow** for facial emotion recognition and music recommendations.
-- [GTA – 187](https://github.com/chetangoel01/GTA-187): An educational racing game developed in **Unity**, featuring AI opponents, physics-based controls, and integrated math challenges.
-- [Weather](https://github.com/chetangoel01/Weather): A weather dashboard built with PlatformIO for a LilyGo E-paper display, featuring real-time updates.
-- [WelcomeHome](https://github.com/chetangoel01/WelcomeHome): A database project for CS-GY 6083, involving schema design, authentication, and performance optimization, built entirely from scratch.
-- **Employee Goal Manager**: Project contracted by UKG for tracking employee goals and milestones.  
-  - [Frontend](https://github.com/chetangoel01/cs320-AST-frontend): Developed using **React.js** with responsive and dynamic interfaces.  
-  - [Backend](https://github.com/chetangoel01/cs320-AST-backend): Built with **Flask**, supporting robust RESTful APIs and MongoDB integration.
-- [CongressTracker](https://github.com/chetangoel01/CongressTracker): A web app written in **React** with **Google Firebase** and **Python** backend, designed to track congressional bills, sessions, and member information.
+- [**Social Media Reports**](https://github.com/chetangoel01/social-media-reports): Automated social media analytics platform that scrapes multi-platform data and generates GPT-4 powered performance reports with PDF export.
+  **Tech Stack**: React, Node.js, Apify API, OpenAI GPT-4, SQLite, Docker
+
+### Full-Stack Development
+
+- **Employee Goal Manager**: Contracted project for UKG to track employee goals and milestones with real-time updates.
+  [Frontend](https://github.com/chetangoel01/cs320-AST-frontend) (React.js) | [Backend](https://github.com/chetangoel01/cs320-AST-backend) (Flask, MongoDB)
+
+- [**WelcomeHome**](https://github.com/chetangoel01/WelcomeHome): Database-driven web application with complex schema design, authentication, and query optimization built from scratch.
 
 
 ---
